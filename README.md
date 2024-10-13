@@ -5,7 +5,7 @@ In this project, Website data is scrapped using BeautifulSoup library in Python.
 website : https://en.wikipedia.org/wiki/List_of_active_Indian_military_aircraft
 <br>
 
-This page contains the information about the Indian aircrafts. We will try to get the details as name of the aircraft, Origin, Type, Variant, no. of services stored in the table.
+This page contains the information about the Indian aircrafts. We will try to get the details as name of the aircraft, origin, type, variant, no. of services stored in the table.
 <br>
 
 As shown in ipynb file, all the above mentions details are fetched using read_html() method of pandas.
